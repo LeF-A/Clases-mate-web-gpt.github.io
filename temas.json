@@ -1,0 +1,134 @@
+{
+    "temas": [
+        {
+            "nombre": "Álgebra",
+            "imagen": "algebra.jpg",
+            "definicion": "Rama de las matemáticas que estudia las operaciones aritméticas y la manipulación de símbolos."
+        },
+        {
+            "nombre": "Geometría y Trigonometría",
+            "imagen": "geometria.jpg",
+            "definicion": "Rama de las matemáticas que estudia las formas geométricas y las relaciones espaciales entre los objetos."
+        },
+        {
+            "nombre": "Geometría Analítica",
+            "imagen": "geometria-analitica.jpg",
+            "definicion": "Rama de las matemáticas que combina la geometría con el álgebra, se representan figuras geométricas mediante ecuaciones y viceversa."
+        },
+        {
+            "nombre": "Logaritmos",
+            "imagen": "logaritmos.jpg",
+            "definicion": "Los logaritmos son funciones matemáticas que permiten simplificar cálculos y transformar multiplicaciones en sumas."
+        },
+        {
+            "nombre": "Cálculo Diferencial",
+            "imagen": "calculo-diferencial.jpg",
+            "definicion": "Rama del cálculo que estudia la tasa de cambio de una cosa con respecto a otra, al igual que sus aplicaciones."
+        },
+        {
+            "nombre": "Calculo Integral",
+            "imagen": "calculo-integral.jpg",
+            "definicion": "Rama del cálculo que estudia la acumulación de cambios infinitesimales y las aplicaciones que tiene en el mundo físico."
+        },
+        {
+            "nombre": "Cálculo Vectorial",
+            "imagen": "calculo-vectorial.jpg",
+            "definicion": "Rama del cálculo que estudia los vectores y las funciones vectoriales en el espacio tridimensional, y sus aplicaciones."
+        },
+        {
+            "nombre": "Ecuaciones Diferenciales",
+            "imagen": "ecuaciones-diferenciales.jpg",
+            "definicion": "Rama de las matemáticas que estudia las relaciones entre una función y sus derivadas, y sus aplicaciones en la física y la ingeniería."
+        },
+        {
+            "nombre": "Series de Fourier",
+            "imagen": "fourier.jpg",
+            "definicion": "Conjunto de técnicas matemáticas que permiten descomponer una función en una suma de funciones trigonométricas más simples."
+        },
+        {
+            "nombre": "Movimiento Unidimensional",
+            "imagen": "movimiento-unidimensional.jpg",
+            "definicion": "Estudio del movimiento de un objeto a lo largo de una recta, conociendo su posición, velocidad y aceleración."
+        },
+        {
+            "nombre": "Vectores",
+            "imagen": "vectores.jpg",
+            "definicion": "Magnitudes que tienen dirección y sentido, y que se utilizan para describir el movimiento y las fuerzas en la física."
+        },
+        {
+            "nombre": "Matrices",
+            "imagen": "matrices.jpg",
+            "definicion": "Las matrices son una colección de números ordenados en filas y columnas, se utilizan para representar conceptos matemáticos."
+        },
+        {
+            "nombre": "Movimiento en el espacio",
+            "imagen": "movimiento.jpg",
+            "definicion": "Se describe como el movimiento de un objeto en un plano o en el espacio. Se puede describir utilizando vectores y componentes vectoriales."
+        },
+        {
+            "nombre": "Fuerza y Leyes de Newton",
+            "imagen": "fuerza.jpg",
+            "definicion": "Las leyes de Newton describen cómo los objetos se mueven en relación con las fuerzas que actúan sobre ellos."
+        },
+        {
+            "nombre": "Trabajo y Energía",
+            "imagen": "energia.jpg",
+            "definicion": "La energía es la capacidad de hacer trabajo. El trabajo es la transferencia de energía de un objeto a otro. La energía puede estar en diferentes formas, como la energía cinética, la energía potencial y la energía térmica."
+        },
+        {
+            "nombre": "Movimiento Angular",
+            "imagen": "movimiento_angular.jpg",
+            "definicion": "El movimiento angular es el movimiento de un objeto alrededor de un punto o eje. Se puede describir utilizando ángulos, velocidad angular y aceleración angular. Se utiliza en todo objeto donde su trayectoria sea curva"
+        },
+        {
+            "nombre": "Estática",
+            "imagen": "estatica.jpg",
+            "definicion": "La estática es el estudio de los objetos en equilibrio. Se puede describir utilizando fuerzas, momentos y equilibrio de fuerzas."
+        },
+        {
+            "nombre": "Dinámica",
+            "imagen": "dinamica.jpg",
+            "definicion": "La dinámica es el estudio de los objetos en movimiento. Se puede describir utilizando fuerzas, aceleración y movimiento de objetos."
+        },
+        {
+            "nombre": "Mecánica de Fluidos",
+            "imagen": "mecanica_fluidos.jpg",
+            "definicion": "La mecánica de fluidos es el estudio del movimiento de líquidos y gases. Se puede describir utilizando la ecuación de Bernoulli, la ley de Pascal y la ley de Stokes."
+        },
+        {
+            "nombre": "Aerodinámica",
+            "imagen": "aerodinamica.jpg",
+            "definicion": "La aerodinámica es el estudio del movimiento del aire alrededor de objetos sólidos, como aviones. Se puede describir utilizando la sustentación de Prandtl y la resistencia aerodinámica."
+        },
+        {
+            "nombre": "Estructuras Básicas",
+            "imagen": "estructuras.jpg",
+            "definicion": "Las estructuras son elementos que soportan cargas y transmiten fuerzas. En este tema se estudian los diferentes tipos de estructuras y sus propiedades mecánicas."
+        },
+        {
+            "nombre": "Programación Básica",
+            "imagen": "programacion.jpg",
+            "definicion": "La programación es el proceso de diseñar, escribir, probar, depurar y mantener el código fuente de software. En este tema se enseñan los conceptos básicos de programación."
+        },
+        {
+            "nombre": "Análisis Numérico",
+            "imagen": "analisis_numerico.jpg",
+            "definicion": "El análisis numérico es una rama de las matemáticas que se encarga del estudio de los métodos numéricos para la solución de problemas matemáticos. Se estudian los diferentes métodos numéricos y su aplicación a problemas de la ingeniería y la ciencia."
+        },
+        {
+            "nombre": "Termodinámica",
+            "imagen": "termodinamica.jpg",
+            "definicion": "La termodinámica es una rama de la física que se encarga del estudio de los procesos en los que hay transferencia de energía como calor y trabajo. En este tema se estudian los conceptos básicos de la termodinámica y su aplicación a problemas reales."
+        },
+        {
+            "nombre": "Electrónica Básica",
+            "imagen": "electronica.jpg",
+            "definicion": "La electrónica es la rama de la ingeniería que se encarga del diseño y aplicación de circuitos electrónicos. En este tema se estudian los conceptos básicos de la electrónica y se aplican a la solución de problemas sencillos."
+        },
+        {
+            "nombre": "Sistemas de Control",
+            "imagen": "sistemas_control.jpg",
+            "definicion": "Los sistemas de control son aquellos sistemas que se encargan de regular el comportamiento de otros sistemas. En este tema se estudian los diferentes tipos de sistemas de control y su aplicación a problemas reales."
+        }
+    ]
+}

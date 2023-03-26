@@ -1,0 +1,91 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #223361;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+nav {
+  background-color: #041035;
+  text-align: center;
+
+
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  padding: 10px;
+}
+
+nav a:hover {
+  background-color: #5087ff;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+section {
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #223361;
+  color: white;
+}
+
+section h2 {
+  margin-top: 0;
+}
+
+#temas h2 {
+  color: #fff;
+}
+
+
+footer {
+  background-color: #0c193f;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+
+#lista-temas {
+  font-family: "Cambria Math", sans-serif;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 50px;
+  color: white;
+  text-align: justify;
+  align-items: start;
+  margin-bottom: 30px;
+}
+
+#lista-temas img {
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+}
+
+.reservas {
+  color: white;
+}
